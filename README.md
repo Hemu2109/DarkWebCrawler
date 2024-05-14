@@ -12,7 +12,7 @@ DarkWebCrawler is a simple Python web crawler that searches for and extracts ***
 
 ```python
 git clone https://github.com/Hemu2109/DarkWebCrawler.git
-cd ShadowBot
+cd DarkWebCrawler
 pip install -r requirements.txt
 ```
 
