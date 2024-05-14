@@ -8,3 +8,10 @@ DarkWebCrawler is a simple Python web crawler that searches for and extracts ***
 - Uses a SOCKS5 proxy to access the Tor network
 - Supports infinite recursion limit
 - Allows users to display crawled .onion links
+
+
+```python
+git clone 
+cd ShadowBot
+pip install -r requirements.txt
+```
